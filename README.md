@@ -1,7 +1,7 @@
 # NECLace
 NECLace is the ELICIT log analyser developed around 2010 by marcomanso. This work was originaly sponsored by the CCRP and is now supported by the International Command and Control Institute (IC2I) (http://internationalc2institute.org).
 
-It was originaly developed with NetBeans and was recently ported to Eclipse.
+NECLace was originaly developed using NetBeans and was recently ported to Eclipse.
 
 # Third party components
 The following third party components are used:
