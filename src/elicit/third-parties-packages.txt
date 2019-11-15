@@ -1,0 +1,30 @@
+Third Parties Packages used in this work:
+
+- ICONS
+http://www.wefunction.com/function-free-icon-set (liam@wefunction.com)
+
+- JFreeChart (v1.0.13)
+JFreeChart is a free 100% Java chart library that makes it easy for developers
+to display professional quality charts in their applications.
+See http://www.jfree.org/jfreechart/index.html
+
+- XStream (v1.2.2)
+XStream is a simple library to serialize objects to XML and back again.
+XStream is open source software, made available under a BSD license.
+See http://xstream.codehaus.org/
+
+(netBeans, JAVA)
+
+?? - Apache Commons: Math (v1.2)
+Commons Math is made up of a small set of math/stat utilities addressing 
+methematical programming problems.
+See http://commons.apache.org/
+
+- JGraphT (v0.8.0)
+JGraphT is a free Java graph library that provides mathematical graph-theory
+objects and algorithms.
+See http://jgrapht.sourceforge.net/
+
+
+
+(??? http://www.freestatistics.info/stat.php)
